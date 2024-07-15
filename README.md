@@ -1,5 +1,3 @@
-<h1 align="center">Curriculum Vitae</h1>
-
 ## Luyang Wang
 
 Beijing University of Civil Engineering and Architecture  
