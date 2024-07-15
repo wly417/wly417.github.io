@@ -1,4 +1,3 @@
-# wly417.github.io
 <h1 align="center">Curriculum Vitae</h1>
 
 ## Luyang Wang
